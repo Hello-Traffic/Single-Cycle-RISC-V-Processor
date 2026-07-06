@@ -54,7 +54,6 @@ Single-Cycle-RISC-V-Processor
 ├── TestPrograms
 │   └── mixed.mem
 │
-├── Images
 │
 └── README.md
 ```
